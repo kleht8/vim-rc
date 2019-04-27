@@ -4,7 +4,6 @@ set expandtab
 set shiftwidth=4
 set number
 set showcmd
-"set cursorline
 filetype indent on
 set wildmenu
 set lazyredraw
