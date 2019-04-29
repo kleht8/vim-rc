@@ -17,3 +17,7 @@ nnoremap <space> za
 set foldmethod=indent
 
 set nowrap
+
+" NERDTREE
+map <C-n> :NERDTreeToggle<CR>  
+map <F3> :NERDTreeToggle<CR> 
