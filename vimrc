@@ -1,3 +1,6 @@
+execute pathogen#infect()
+call pathogen#helptags()
+
 set tabstop=4
 set softtabstop=4
 set expandtab
